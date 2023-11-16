@@ -34,7 +34,7 @@
 #define CT4_ESP 32 // ESP32 ADC.  Suitable for both ATM90E32 or ATM90E36
 
 // CT4 Software Configuration.  Can be used for CT INPUT to ATM90E36, ESP32 GP35.
-#define CT4_CONFIG CT4_ESP // On IPEM, Set CT4 ADC Configuration.  CT4_ATM or CT4_ESP
+#define CT4_CONFIG CT4_ATM // On IPEM, Set CT4 ADC Configuration.  CT4_ATM or CT4_ESP
 #define CT4_ENABLED false  // CT4 ESP32 Clamp (Default false)
 
 // **************** DEFINE VOLTAGE REFERENCE ****************
