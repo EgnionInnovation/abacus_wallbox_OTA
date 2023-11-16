@@ -10,6 +10,9 @@
             "includePath": [
                 "C:/Users/HP-abdullah/Documents/PlatformIO/Projects/Abacus_Wallbox_V1.0/include",
                 "C:/Users/HP-abdullah/Documents/PlatformIO/Projects/Abacus_Wallbox_V1.0/src",
+                "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/HTTPUpdate/src",
+                "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/HTTPClient/src",
+                "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                 "C:/Users/HP-abdullah/Documents/PlatformIO/Projects/Abacus_Wallbox_V1.0/.pio/libdeps/esp32-s3-devkitc-1/NTPClient",
                 "C:/Users/HP-abdullah/Documents/PlatformIO/Projects/Abacus_Wallbox_V1.0/.pio/libdeps/esp32-s3-devkitc-1/EmonLib",
                 "C:/Users/HP-abdullah/Documents/PlatformIO/Projects/Abacus_Wallbox_V1.0/.pio/libdeps/esp32-s3-devkitc-1/ArduinoJson/src",
@@ -234,8 +237,6 @@
                 "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/ESP32/src",
                 "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/Ethernet/src",
                 "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/FFat/src",
-                "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/HTTPClient/src",
-                "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/HTTPUpdate/src",
                 "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/HTTPUpdateServer/src",
                 "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/I2S/src",
                 "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/NetBIOS/src",
@@ -246,7 +247,6 @@
                 "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/SimpleBLE/src",
                 "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/Ticker/src",
                 "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/USB/src",
-                "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                 "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/WiFiProv/src",
                 ""
             ],
@@ -255,6 +255,9 @@
                 "path": [
                     "C:/Users/HP-abdullah/Documents/PlatformIO/Projects/Abacus_Wallbox_V1.0/include",
                     "C:/Users/HP-abdullah/Documents/PlatformIO/Projects/Abacus_Wallbox_V1.0/src",
+                    "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/HTTPUpdate/src",
+                    "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/HTTPClient/src",
+                    "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                     "C:/Users/HP-abdullah/Documents/PlatformIO/Projects/Abacus_Wallbox_V1.0/.pio/libdeps/esp32-s3-devkitc-1/NTPClient",
                     "C:/Users/HP-abdullah/Documents/PlatformIO/Projects/Abacus_Wallbox_V1.0/.pio/libdeps/esp32-s3-devkitc-1/EmonLib",
                     "C:/Users/HP-abdullah/Documents/PlatformIO/Projects/Abacus_Wallbox_V1.0/.pio/libdeps/esp32-s3-devkitc-1/ArduinoJson/src",
@@ -479,8 +482,6 @@
                     "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/ESP32/src",
                     "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/Ethernet/src",
                     "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/FFat/src",
-                    "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/HTTPClient/src",
-                    "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/HTTPUpdate/src",
                     "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/HTTPUpdateServer/src",
                     "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/I2S/src",
                     "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/NetBIOS/src",
@@ -491,7 +492,6 @@
                     "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/SimpleBLE/src",
                     "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/Ticker/src",
                     "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/USB/src",
-                    "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                     "C:/Users/HP-abdullah/.platformio/packages/framework-arduinoespressif32/libraries/WiFiProv/src",
                     ""
                 ]
