@@ -1,9 +1,5 @@
-https://github.com/tzapu/WiFiManager.git#4dcf0cc78bb031351d65e0f9b9271569df8720ed
-adafruit/Adafruit GFX Library@^1.11.9
-knolleary/PubSubClient@^2.8
 openenergymonitor/EmonLib@^1.1.0
-adafruit/Adafruit BusIO@^1.14.5
-plerup/EspSoftwareSerial@^6.16.1
 bblanchon/ArduinoJson@^6.21.3
+adafruit/Adafruit BusIO@^1.14.5
+bodmer/TFT_eWidget@^0.0.6
 arduino-libraries/NTPClient@^3.2.1
-https://github.com/adafruit/Adafruit-ST7735-Library.git
