@@ -1,5 +1,5 @@
-openenergymonitor/EmonLib@^1.1.0
 bblanchon/ArduinoJson@^6.21.3
 adafruit/Adafruit BusIO@^1.14.5
-bodmer/TFT_eWidget@^0.0.6
+openenergymonitor/EmonLib@^1.1.0
 arduino-libraries/NTPClient@^3.2.1
+bodmer/TFT_eWidget@^0.0.6
