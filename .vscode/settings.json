@@ -1,5 +1,5 @@
 {
-    "idf.port": "/dev/cu.usbmodem1301",
+    "idf.port": "/dev/tty.usbmodem1301",
     "files.associations": {
         "array": "cpp",
         "*.tcc": "cpp",
