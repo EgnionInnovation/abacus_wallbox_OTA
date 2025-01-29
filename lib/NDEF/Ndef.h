@@ -7,7 +7,10 @@
 
 #include <Arduino.h>
 
-#define NULL (void *)0
+#undef NULL
+#define NULL 0  // Define NULL as a plain 0 for C++ compatibility
+
+// #define NULL (void *)0
 
 void PrintHex(const byte *data, const long numBytes);
 void PrintHexChar(const byte *data, const long numBytes);
