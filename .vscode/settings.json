@@ -14,5 +14,6 @@
         "initializer_list": "cpp",
         "regex": "cpp"
     },
-    "CodeGPT.apiKey": "CodeGPT Plus Beta"
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "cmake.sourceDirectory": "C:/Users/HP-abdullah/Documents/PlatformIO/Projects/Abacus_Wallbox/lib/ESP_Async_WebServer"
 }
